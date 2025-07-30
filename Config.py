@@ -25,26 +25,11 @@ queries = [
     {
         'page': '1',
         'per_page': '96',
-        'search_text': '',
+        'search_text': 'laptop asus 32gb',
         'catalog_ids': '',
-        'brand_ids' : '417',
+        'brand_ids': '',
         'order': 'newest_first',
+        'price_from': '400',
+        'price_to': '1100',
     },
-    {
-        'page': '1',
-        'per_page': '96',
-        'search_text': 't-shirt',
-        'catalog_ids': '',
-        'brand_ids' : '',
-        'order': 'newest_first',
-    },
-    {
-        'page': '1',
-        'per_page': '96',
-        'search_text': '',
-        'catalog_ids': '2996',
-        'brand_ids' : '',
-        'order': 'newest_first',
-    },
-
 ]
