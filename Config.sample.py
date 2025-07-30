@@ -8,11 +8,11 @@ smtp_toaddrs = ["User <example@example.com>"]
 slack_webhook_url = ""
 
 # Telegram Token and ChatID for notification
-telegram_bot_token = ""
-telegram_chat_id = ""
+telegram_bot_token = "7884215633:AAF3-_Nst9dL6uKD1cr3kpHxBKSXhwnUb9M"
+telegram_chat_id = "1996028713"
 
 # Vinted URL: change the TLD according to your country (.fr, .es, etc.)
-vinted_url = "https://www.vinted.it"
+vinted_url = "https://www.vinted.com"
 
 # Vinted queries for research
 # "page", "per_page" and "order" you may not edit them
