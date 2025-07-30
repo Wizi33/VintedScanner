@@ -193,3 +193,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+  from utils import send_telegram_message
+send_telegram_message("✅ VintedScanner is connected and working!")
